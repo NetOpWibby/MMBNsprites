@@ -1,0 +1,10 @@
+# Don't need to upload this generated stuff
+_site
+.sass-cache
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# &c
+*.lock
